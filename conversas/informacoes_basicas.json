@@ -1,0 +1,16 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "o que é o cubo mágico?", "cubo mágico", "cubo magico é um brinquedo?" ],
+            "resposta": "Cubo de Rubik, também conhecido como Cubo Mágico, é um quebra-cabeça tridimensional"
+        },
+        {
+            "mensagens": [ "quem criou o cubo magico?", "quem inventou o cubo magico?", "de onde surgiu o cubo magico?" ],
+            "resposta": "O Cubo Mágico foi criado pelo professor de arquitetura  Ernő Rubik, que inventou o quebra cabeça com o intuito de dar aulas de tridimensionalismo."
+        },
+        {
+            "mensagens": [ "como montar um cubo magico?", "como resolver o cubo magico?"],
+            "resposta": "O cubo mágico permite ser resolvido de diversas formas, a mais fácil para iniciantes é o metodo básico.  Para ver detalhadamente o tutorial, consulte o site https://cubovelocidade.com.br/tutorial/cubo-magico-3x3x3-metodo-basico-resolver-montar/ para aprender de forma gratuita."
+        }
+    ]
+}

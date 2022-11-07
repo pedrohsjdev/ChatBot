@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["qualquer um consegue montar o cubo mágico?", "eu consigo montar um cubo mágico?", "é possível montar um cubo magico?"],
+            "resposta": "Sim. O cubo mágico pode ser resolvido por qualquer pessoa, até mesmo uma criança ou uma pessoa mais velha, basta ter um pouco de dedicação e paciência."
+        },
+        {
+            "mensagens": ["existe diferença entre um cubo magico barato e um caro?", "existe cubo magico barato?", "porque um cubo mágico é tão caro?"],
+            "resposta": "Hoje em dia existem uma infinidade de modelos de cubo magico, até mesmo de outras formas geometricas. O cubo mágico passou a ser usado no cenário do esporte e o objetivo é resolve-lo o mais rápido possível. Por isso existe a diferença entre valores, cubos mais profissionais e rápidos tendem a custar mais caro e um cubo simples e básico tende a ser mais barato."
+        },
+        {
+            "mensagens": ["qual o menor tempo que o cubo magico foi resolvido?", "qual o record do cubo mágico?", "qual menor tempo do cubo mágico?"],
+            "resposta": "Os records só podem ser validos se acontecerem em campeonatos oficiais, e os tempos estão sempre mudando, atualmente o menor tempo é do Chines Yusheng Du que resolveu o cubo em 3.47 segundos. Para ver os tempos sempre atualizados consulte: https://www.worldcubeassociation.org/results/records"
+        },
+        {
+            "mensagens": ["onde comprar um cubo mágico?", "como comprar um cubo mágico?", "onde encontrar um cubo mágico?"],
+            "resposta": "O cubo mágico tradicional pode ser facilmente encontrado em qualquer loja de brinquedos ou quebra cabeças, mas pela internet é facilmente encontrado uma grande variedade de cubos. Existe apenas um cubo fabricado 100% no Brasil que é o Fellow e pode ser econtrado no site: https://www.cuberbrasil.com/cubo-magico-3x3x3-fellow-cube-tradicional-profissional"
+        }
+    ]
+}
