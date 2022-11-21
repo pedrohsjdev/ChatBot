@@ -4,8 +4,7 @@ import json
 
 CONFIGURACOES_CONVERSAS = [
     "./conversas/saudacoes.json",
-    "./conversas/informacoes_basicas.json",
-    "./conversas/cubo_magico.json"
+    "./conversas/informacoes_cubo_magico.json",
 ]
 
 def iniciar():

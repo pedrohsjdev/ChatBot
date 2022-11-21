@@ -10,7 +10,7 @@
         },
         {
             "mensagens": ["boa tarde"],
-            "resposta": "Bom tarde, sou o robô de atendimento do Cubo Mágico. Como posso te ajudar?"
+            "resposta": "Boa tarde, sou o robô de atendimento do Cubo Mágico. Como posso te ajudar?"
         },
         {
             "mensagens": ["boa noite"],
